@@ -1,0 +1,25 @@
+Örnek:
+
+public static Shell shell;
+public void onStartClient() {
+        shell = new Shell(ShellConfig.loadTheme("default")); // default yerine istediginiz temayi yazabilirsiniz
+}
+
+
+// Shell i açmak için
+HileAdý.shell.openShell();
+
+// module olarak eklicekseniz onEnable kismina yazin
+
+Temalari %appdata% daki .streax klasörüne atin
+.streax klasörünün oluþmasi için shell i hilenize kurduktan sonra en az 1 kere oyunu açmaniz lazim
+
+Tema yapimi:
+.streax daki default.txt yi temaadiniz.txt olarak kopyalayin
+
+https://www.rapidtables.com/convert/number/hex-to-decimal.html
+bu siteden renk kodlarini dönüþtürmek için örnek
+Enter hex number yerine renk kodunuz (baþinda 0xff olmasi lazim) 0xff000000
+Convert e bastiktan sonra 
+Decimal from signed int yazan yerdeki kodu kopyalayip temaniza ekleyin
+

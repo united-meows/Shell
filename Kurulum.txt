@@ -1,4 +1,4 @@
-Örnek:
+Ã–rnek:
 
 public static Shell shell;
 public void onStartClient() {
@@ -6,20 +6,20 @@ public void onStartClient() {
 }
 
 
-// Shell i açmak için
-HileAdı.shell.openShell();
+// Shell i aÃ§mak iÃ§in
+HileAdÄ±.shell.openShell();
 
 // module olarak eklicekseniz onEnable kismina yazin
 
-Temalari %appdata% daki .streax klasörüne atin
-.streax klasörünün oluşmasi için shell i hilenize kurduktan sonra en az 1 kere oyunu açmaniz lazim
+Temalari %appdata% daki .streax klasÃ¶rÃ¼ne atin
+.shell klasÃ¶rÃ¼nÃ¼n oluÅŸmasi iÃ§in shell i hilenize kurduktan sonra en az 1 kere oyunu aÃ§maniz lazim
 
 Tema yapimi:
-.streax daki default.txt yi temaadiniz.txt olarak kopyalayin
+.shell daki default.txt yi temaadiniz.txt olarak kopyalayin
 
 https://www.rapidtables.com/convert/number/hex-to-decimal.html
-bu siteden renk kodlarini dönüştürmek için örnek
-Enter hex number yerine renk kodunuz (başinda 0xff olmasi lazim) 0xff000000
+bu siteden renk kodlarini dÃ¶nÃ¼ÅŸtÃ¼rmek iÃ§in Ã¶rnek
+Enter hex number yerine renk kodunuz (baÅŸinda 0xff olmasi lazim) 0xff000000
 Convert e bastiktan sonra 
 Decimal from signed int yazan yerdeki kodu kopyalayip temaniza ekleyin
 

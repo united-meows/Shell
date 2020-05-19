@@ -1,6 +1,6 @@
 package shell.utils;
 
-import com.sun.javafx.geom.Vec2d;
+
 import net.minecraft.util.Vec3;
 import org.lwjgl.opengl.GL11;
 

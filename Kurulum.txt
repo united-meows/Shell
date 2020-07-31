@@ -11,7 +11,7 @@ HileAdı.shell.openShell();
 
 // module olarak eklicekseniz onEnable kismina yazin
 
-Temalari %appdata% daki .streax klasörüne atin
+Temalari %appdata% daki .shell klasörüne atin
 .shell klasörünün oluşmasi için shell i hilenize kurduktan sonra en az 1 kere oyunu açmaniz lazim
 
 Tema yapimi:
